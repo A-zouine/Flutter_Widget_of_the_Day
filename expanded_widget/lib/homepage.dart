@@ -5,9 +5,41 @@ class MyHomePage extends StatelessWidget {
   @override
   Widget build(BuildContext context) {
     return  Scaffold(
-      body: Row(
+      body: Column(
         children: [
-          
+          Expanded(
+            flex: 1,
+            child: Container(
+              color :Colors.deepPurple,
+            ),
+          ),
+          Expanded(
+            child: Container(
+              color : Colors.deepOrangeAccent,
+            ),
+          ),
+          Expanded(
+            flex: 2,
+            child: Row(
+              children: [
+                Expanded(
+                  child: Container(
+                    color : Colors.blue,
+                  ),
+                ),
+                Expanded(
+                  child: Container(
+                    color : Colors.black,
+                  ),
+                ),
+                Expanded(
+                  child: Container(
+                    color : Colors.white,
+                  ),
+                ),
+              ],
+            ),
+          ),
         ],
       ) ,
     );
