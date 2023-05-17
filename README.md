@@ -1,0 +1,1 @@
+### Widget of the `everyday`
