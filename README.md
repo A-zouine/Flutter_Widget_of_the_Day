@@ -1,22 +1,29 @@
 ## Widget of the `day`
 ```
 
-- CONTAINER • Flutter Widget of the Day #01 
- 
-- EXPANDED • Flutter Widget of the Day #02  
+> #### CONTAINER • Flutter Widget of the Day #01 
+********************************************************
 
-- COLUMNS & ROWS • Flutter Widget of the Day #03  
+> EXPANDED • Flutter Widget of the Day #02  
+********************************************************
 
-- LISTVIEW & BUILDER • Flutter Widget of the Day #04  
+> COLUMNS & ROWS • Flutter Widget of the Day #03  
+********************************************************
 
-- Round Corners • Flutter Widget of the Day #05  
+> LISTVIEW & BUILDER • Flutter Widget of the Day #04  
+********************************************************
 
-- IMAGE ASSET • Flutter Widget of the Day #06
+> Round Corners • Flutter Widget of the Day #05  
+********************************************************
 
-- GRIDVIEW & BUILDER • Flutter Widget of the Day #07
+> IMAGE ASSET • Flutter Widget of the Day #06
+********************************************************
 
-- GESTURE DETECTOR • Flutter Widget of the Day #08
+> GRIDVIEW & BUILDER • Flutter Widget of the Day #07
+********************************************************
 
+> GESTURE DETECTOR • Flutter Widget of the Day #08
+********************************************************
 
 ```
 
